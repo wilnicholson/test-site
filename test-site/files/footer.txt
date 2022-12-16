@@ -1,0 +1,19 @@
+ <footer>
+                <!-- footer stats here -->
+               <section>
+                             <p>Find me on</p>
+                                  <!-- Twitter logo -->
+                             <img src="img/github_icon.svg" alt="github" width="32px" height="32px">
+                                <!-- Twitter logo -->
+                             <img src="img/twitter_icon.svg" alt="twitter">
+                               <!-- LinkedIn logo -->
+                             <img src="img/linkedin_icon.svg" alt="svg-128.png">
+         
+                             <button type="button">Default Button</button>
+                             <button class="button__secondary">Secondary Button</button>
+            </section>
+</footer>
+      <!-- footer ends here -->
+      <script src="js/tota11y.min.js"></script>
+    </body>
+ </html>
